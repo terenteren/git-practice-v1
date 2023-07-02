@@ -1,6 +1,8 @@
 team: Tigers
 
-manager: Donald
+manager: 
+- Donald
+- George
 
 members:
 - Linda
